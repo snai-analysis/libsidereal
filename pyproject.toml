@@ -1,0 +1,9 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "libsidereal"
+description = "Common code for SIDE-real and following works"
+authors = [{name = "Kosio Karchev", email = "kosiokarchev@gmail.com"}]
+version = "0.1"
